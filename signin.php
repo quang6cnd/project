@@ -78,6 +78,9 @@
 						<button class="login100-form-btn" name="submit" type="submit">
 							Login
 						</button>
+						<button class="login100-form-btn" style="margin-left: 20px;">
+							<a href="signup.php" style="color: #fff">Đăng ký</a>
+						</button>
 					</div>
 				</form>
 			</div>
